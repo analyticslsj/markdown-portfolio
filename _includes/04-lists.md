@@ -22,3 +22,4 @@ B. Hybrid
 :+1:
 :exclamation:
 :bar_chart:
+:smile:
