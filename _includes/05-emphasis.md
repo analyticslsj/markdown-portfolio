@@ -8,3 +8,5 @@ __bold (underscore)__
 
 _italics **bold** combo_  
 ***bold italics***
+
+___bold italics (underscores)___
